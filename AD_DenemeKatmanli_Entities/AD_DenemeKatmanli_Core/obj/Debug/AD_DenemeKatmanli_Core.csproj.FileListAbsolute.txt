@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\obj\Debug\AD_DenemeKatmanli_Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\obj\Debug\AD_DenemeKatmanli_Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\bin\Debug\AD_DenemeKatmanli_Core.dll.config
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\bin\Debug\AD_DenemeKatmanli_Core.dll
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\bin\Debug\AD_DenemeKatmanli_Core.pdb
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\obj\Debug\AD_DenemeKatmanli_Core.dll
+C:\Users\hp\source\repos\AD_DenemeKatmanli_Entities\AD_DenemeKatmanli_Core\obj\Debug\AD_DenemeKatmanli_Core.pdb
